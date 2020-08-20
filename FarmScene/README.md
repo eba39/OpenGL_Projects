@@ -7,9 +7,12 @@ To run this project after building all dll, image, and shader files must be in t
 No image files or dll's will be provided here, but you can still download the released version above.
 
 ### Build dependencies:
-freeglut 
+freeglut
+
 GLEW 2.1.0
+
 DevIL 1.8.0 SDK for Windows
+
 GLM - OpenGL Mathematics
 
 
