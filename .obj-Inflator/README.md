@@ -1,8 +1,8 @@
-# FarmScene
-This is a scene I created for my final project in my first OpenGL course!
-This project demonstrates 3D shape creation, lighting and shading, and texture mapping.
+# OBJ Inflator
+This project demonstrates object deformation, with the vectors expanding along the normals.
+"assignment2"
 
-## You can download and try the working release version here: [CSCD396_FinalProject.zip](https://drive.google.com/file/d/1eAvTTp2BYIRAOoVMX8xABhGOaPHwXK3E/view?usp=sharing) ##
+## You can download and try the working release version here: [obj-inflator.zip](https://drive.google.com/file/d/10iGSuKax7KMc1PCjV5Bp_dwvvGfsfTxW/view?usp=sharing) ##
 
 To run this project after building all dll, image, and shader files must be in the same directory as the exe.
 
